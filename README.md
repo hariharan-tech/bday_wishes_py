@@ -62,23 +62,16 @@ the email content is set, "To" and "From" email address and the subject string i
 Then this server.send_message(email) command sends the email with the generated subject and the 
 content. The email content is also printed to the user.
 
-NOTE: The Branch Allotment PDF and the notepad file is not included here due to security reasons.
+<strong> NOTE: The Branch Allotment PDF and the notepad file is not included here due to security reasons. </strong> 
 
-
-
-
-
-
-
-
-
+<br> 
 
 ## Required Libraries
 
 - smtplib
 - email
 
-<strong> Both Libraries are in-built, so there is no need to install any new library. </strong> 
+Both Libraries are in-built, so there is no need to install any new library.
 
 <br>
 
@@ -92,5 +85,3 @@ Creator : Hariharan A
 - [@Hariharan A](https://www.github.com/hariharan-tech) (Github Page)
 - [Hybrid ElectroTech YouTube Channel](https://www.youtube.com/channel/UCMAjKypANYXpEaPAb3KtGtQ) (Youtube Channel)
 - [Hybrid ElectroTech Instagram Page](https://www.instagram.com/hybrid_electrotech/) (YouTube Channel's Instagram Page)
-
-  
