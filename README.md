@@ -78,7 +78,7 @@ NOTE: The Branch Allotment PDF and the notepad file is not included here due to 
 - smtplib
 - email
 
-Both Libraries are in-built, so there is no need to install any new library.
+<strong> Both Libraries are in-built, so there is no need to install any new library. </strong> 
 
 <br>
 
